@@ -1,2 +1,2 @@
 # autenticacao
-treinamento de autenticacao DIO
+treinamento de autenticacao da DIO
